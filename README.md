@@ -1,0 +1,2 @@
+# An-lisis-de-Incidencias-y-KPIs-de-Red-mediante-Power-BI-en-Entornos-Virtualizados-con-GNS3
+El presente proyecto aborda la creciente necesidad de análisis eficiente de incidencias y KPIs de red en el ámbito de la consultoría, donde las empresas buscan presentar datos y rendimiento a sus clientes de manera clara y efectiva. Aprovechamos Power BI, una herramienta líder en visualización de datos, para este propósito.
